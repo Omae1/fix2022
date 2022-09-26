@@ -1,0 +1,142 @@
+.nav{
+   background-color: #170404;
+    overflow: hidden;
+
+}
+.nav img{
+    float: right;
+    width: 90px;
+    height: 75px;
+}
+.nav a{
+    float: left;
+    color: blue;
+    text-align:center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+a:hover{
+    color: red;
+}
+.Home h1{
+    text-align: center;
+}
+.Home h3{
+    text-align: center;
+    font-size:25px;
+}
+.Home{
+    font-family:Gabriola;
+}
+.Home p{
+    font-size: 20px;
+}
+.Home h4{
+    font-size: 25px;
+}
+
+
+
+table{
+    border-collapse: collapse;
+    margin-left:0;
+    margin-right: 50%;
+    width: 30%;
+
+}
+table tr th{
+    border: 1px solid;
+
+}
+footer{
+    background-color: black;
+    color: white;
+    display: inline-grid;
+    width: 100%;
+
+}
+
+
+.reason1 {
+    background-color: cornflowerblue;
+    width: 23%;
+    height: 480px;
+    text-align: center;
+
+
+
+}
+
+.reason2{
+    background-color: #acdcec;
+
+    height: 480px;
+    width: 23%;
+
+
+
+
+
+}
+.reason3{
+    background-color: aqua;
+    width: 23%;
+    height: 480px;
+
+
+
+}
+div{
+    float: left;
+    padding: 15px;
+}
+body{
+    font-family: Gabriola;
+    font-size: 20px;
+}
+.logo{
+    float: right;
+    display: inline-block;
+}
+nav,a{
+    background-color: black;
+    padding: 15px;
+    
+}
+li{
+    list-style: none;
+    color: blue;
+}
+a{
+    text-decoration: none;
+    color: blue;
+}
+label{
+    text-align:left;
+    display:block;
+    color: blue;
+
+}
+input{
+    width: 100%;
+    padding: 10px;
+    font-family: Gabriola;
+    font-size: 19px;
+}
+select{
+    width: 100%;
+    font-family: Gabriola;
+    padding: 10px;
+}
+.center{
+    width: 50%;
+    height: 400px;
+
+
+}
+.brands{
+    padding: 20px;
+    display: inline-block;
+    margin: 0;
+}
