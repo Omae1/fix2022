@@ -140,3 +140,9 @@ select{
     display: inline-block;
     margin: 0;
 }
+.carousel-inner{
+    width: 627px;
+    height: 418px;
+
+
+}
