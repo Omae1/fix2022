@@ -140,9 +140,7 @@ select{
     display: inline-block;
     margin: 0;
 }
-.carousel-inner{
-    width: 627px;
-    height: 418px;
-
-
+.w-100{
+    width: 100% !important;
+    height: 75vh;
 }
